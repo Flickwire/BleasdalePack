@@ -1,6 +1,6 @@
 {
     "name": "BleasdalePack",
-    "version_number": "1.2.0",
+    "version_number": "1.2.1",
     "website_url": "https://github.com/Flickwire/BleasdalePack",
     "description": "A modpack made for friends, with many QoL mods and a whole lot of extra moons",
     "dependencies": [
@@ -9,7 +9,7 @@
         "anormaltwig-LateCompany-1.0.10",
         "x753-More_Suits-1.4.1",
         "Evaisa-HookGenPatcher-0.0.5",
-        "Evaisa-LethalLib-0.12.0",
+        "Evaisa-LethalLib-0.12.1",
         "Evaisa-LethalThings-0.9.4",
         "Rune580-LethalCompany_InputUtils-0.4.4",
         "Renegades-FlashlightToggle-1.5.0",
@@ -39,7 +39,7 @@
         "Jordo-NeedyCats-1.1.1",
         "NiaNation-AbsasCosmetics-1.2.3",
         "itsmeowdev-DoorFix-1.0.0",
-        "KayNetsua-E_Gypt_Moon-2.0.2",
+        "KayNetsua-E_Gypt_Moon-2.0.3",
         "Ceelery-Kast-1.0.3",
         "KodiCraft-TermSpeak-1.1.0",
         "Electric131-OuijaBoard-1.5.1",
@@ -51,7 +51,7 @@
         "PostMortem-BetterLightning-1.0.3",
         "femboytv-LethalPosters-1.2.0",
         "quackinggander-SCPPosters-1.1.1",
-        "RugbugRedfern-Skinwalkers-2.0.6",
+        "RugbugRedfern-Skinwalkers-2.0.7",
         "x753-Mimics-2.3.2",
         "Renegades-WalkieUse-1.4.0",
         "Thorlar-HealthStation-1.0.1",
@@ -83,8 +83,8 @@
         "AlexCodesGames-AdditionalContentFramework-1.0.2",
         "Ozone-Runtime_Netcode_Patcher-0.2.5",
         "Sligili-More_Emotes-1.3.3",
-        "Magic_Wesley-Infernis-1.1.6",
-        "Magic_Wesley-Acidir-1.0.1",
+        "Magic_Wesley-Infernis-1.1.7",
+        "Magic_Wesley-Acidir-1.0.2",
         "Zingar-Atlas_Abyss-1.0.2",
         "AmazingPyroAndGoofs-Aridion-1.2.6"
     ]

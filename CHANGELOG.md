@@ -1,5 +1,8 @@
 # Changelog
 
+## [1.2.1] - 2024-01-13
+ - Updates to mod versions
+
 ## [1.2.0] - 2024-01-12
  - Added several new moons
  - Re-added HotbarPlus
