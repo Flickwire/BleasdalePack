@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.3.0] - 2024-01-15
+ - Added TooManyEmotes now camera issues are fixed
+ - Added SCPFoundationDungeon
+ - Updates to mod versions
+
 ## [1.2.1] - 2024-01-13
  - Updates to mod versions
 
