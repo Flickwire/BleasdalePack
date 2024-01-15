@@ -1,8 +1,8 @@
 {
     "name": "BleasdalePack",
-    "version_number": "1.3.0",
+    "version_number": "1.4.0",
     "website_url": "https://github.com/Flickwire/BleasdalePack",
-    "description": "A modpack made for friends, with many QoL mods and a whole lot of extra moons",
+    "description": "A modpack focused on exploration, with many new moons and various QoL upgrades. Aims to keep a similar balance to vanilla while adding additional content and replayability.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
         "notnotnotswipez-MoreCompany-1.7.4",
@@ -85,6 +85,7 @@
         "Sligili-More_Emotes-1.3.3",
         "Magic_Wesley-Infernis-1.2.1",
         "Magic_Wesley-Acidir-1.1.0",
+        "Magic_Wesley-Etern-1.0.1",
         "Zingar-Atlas_Abyss-1.0.2",
         "AmazingPyroAndGoofs-Aridion-1.2.6",
         "Badham_Mods-SCPFoundationDungeon-1.5.0",

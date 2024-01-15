@@ -1,5 +1,8 @@
 # Changelog
 
+## [1.4.0] - 2024-01-15
+ - Added Etern (New hard moon)
+
 ## [1.3.0] - 2024-01-15
  - Added TooManyEmotes now camera issues are fixed
  - Added SCPFoundationDungeon
