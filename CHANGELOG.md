@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.5.0] - 2024-01-18
+ - Added Celest (new moon)
+ - Added MoreInteriors
+ - Added LategameUpgrades
+ - Added ObjectVolumeController
+ - Removed NoPenalty
+ - Removed Mimics
+ - General version updates
+
 ## [1.4.0] - 2024-01-15
  - Added Etern (New hard moon)
 
