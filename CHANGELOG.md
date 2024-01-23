@@ -1,5 +1,26 @@
 # Changelog
 
+## [2.0.0] - 2024-01-23
+ <ins>**WARNING - Incompatible with earlier save files**</ins>
+
+### Added
+ - AdvancedCompany
+ - VanillaContentExpansion
+ - SimpleHats
+ - SmoreCosmetics
+  
+### Removed
+ - LateCompany
+ - HotbarPlus
+ - WeatherMultipliers
+ - MoreItems
+ - DynamicDeadline
+ - TerminalExtras
+ - LethalAutocomplete
+ - TermSpeak
+ - TerminalAPI
+ - BetterStamina
+
 ## [1.5.0] - 2024-01-18
  - Added Celest (new moon)
  - Added MoreInteriors
