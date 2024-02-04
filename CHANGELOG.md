@@ -1,5 +1,23 @@
 # Changelog
 
+## [2.1.0] - 2024-02-04
+
+### Added
+ - LethalRichPresence
+ - Lidl_Suit
+ - Ganimedes
+ - LC_Office
+ - ScarletDevilMansion
+ - SnatchinBracken
+ - SellBodies
+ - CullFactory
+
+
+### Removed
+ - FasterItemDropship
+ - LethalCompanyDRP
+ - RollingGiant
+
 ## [2.0.0] - 2024-01-23
  <ins>**WARNING - Incompatible with earlier save files**</ins>
 
