@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.2.0] - 2024-02-20
+
+### Added
+ - Pipapeep_Mod - our first custom mod!
+
+### Removed
+ - Yippee mod
+
 ## [2.1.0] - 2024-02-04
 
 ### Added
