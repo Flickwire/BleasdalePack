@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.2.1] - 2024-02-17
+
+Dependency updates to fix incompatibilities
+
 ## [2.2.0] - 2024-02-20
 
 ### Added
