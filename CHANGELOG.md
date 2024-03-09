@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.3.0] - 2024-03-05
+
+Added new moons and interiors, remoted scarlet devil mansion and peach's castle
+
 ## [2.2.1] - 2024-02-17
 
 Dependency updates to fix incompatibilities
