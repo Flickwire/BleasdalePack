@@ -1,5 +1,10 @@
 # Changelog
 
+## [2.4.0] - 2024-03-09
+
+ - Removed several interiors due to desync issues
+ - Changed posters
+
 ## [2.3.0] - 2024-03-05
 
 Added new moons and interiors, remoted scarlet devil mansion and peach's castle
